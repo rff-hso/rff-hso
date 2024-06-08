@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ... better not
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... fun comes with doing a lot things which you are not prepared to do. That why we are here 
+- ⚡ Fun fact: ... fun comes with doing a lot things which you are not prepared to do. That's why we are here 
 
 <!---
 rff-hso/rff-hso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
